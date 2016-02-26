@@ -1,4 +1,4 @@
-gdgallahabad.github.io
+gdga.github.io
 ======================
 
 github site
