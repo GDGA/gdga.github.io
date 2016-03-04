@@ -1,7 +1,7 @@
 {
-    "name": "boomerang",
+    "name": "GDGA Site",
     "version": "2.1.5",
-    "description": "GDG chapter boilerplate that feeds from DevSite and Google+ using AngularJS and Angular Material.",
+    "description": "GDG Allahabad site using boomerang",
     "main": "index.html",
     "scripts": {
         "start": "http-server -o",
@@ -9,7 +9,7 @@
     },
     "repository": {
         "type": "git",
-        "url": "https://github.com/gdg-x/boomerang.git"
+        "url": "https://github.com/GDGA/gdga.github.io.git"
     },
     "keywords": [
         "gdg",
@@ -17,16 +17,16 @@
         "bootstrap",
         "boomerang"
     ],
-    "author": "GDG-X",
+    "author": "GDGA",
     "license": "Apache-2.0",
     "engines": {
         "node": ">= 0.10",
         "npm": ">= 2.1"
     },
     "bugs": {
-        "url": "https://github.com/gdg-x/boomerang/issues"
+        "url": "https://github.com/GDGA/gdga.github.io/issues"
     },
-    "homepage": "https://github.com/gdg-x/boomerang",
+    "homepage": "https://github.com/GDGA/gdga.github.io",
     "devDependencies": {
         "browserify": "12.0.1",
         "del": "0.1.3",

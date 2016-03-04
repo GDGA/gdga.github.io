@@ -1,11 +1,11 @@
 {
     "name": "boomerang",
     "version": "2.1.5",
-    "homepage": "https://github.com/gdg-x/boomerang.git",
+    "homepage": "https://github.com/GDGA/gdga.github.io.git",
     "authors": [
-        "GDG-X"
+        "GDGA"
     ],
-    "description": "GDG chapter boilerplate that feeds from DevSite and Google+ using AngularJS and Angular Material.",
+    "description": "GDG Allahabad site using boomerang",
     "main": "index.html",
     "keywords": [
         "gdg",
