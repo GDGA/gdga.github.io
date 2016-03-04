@@ -2,15 +2,15 @@ angular.module('gdga')
 .factory('Config', function () {
     return {
         // TODO Modify these to configure your app
-        'name'          : 'GDG Space Coast',
-        'id'            : '103959793061819610212',
+        'name'          : 'GDG Allahabad',
+        'id'            : '102753048484564707718',
         'googleApi'     : '<insert your API key here>',
-        'pwaId'         : '5915725140705884785', // Picasa Web Album id, must belong to Google+ id above
-        'domain'        : 'http://www.gdgspacecoast.org',
-        'twitter'       : 'gdgspacecoast',
-        'facebook'      : 'gdgspacecoast',
-        'youtube'       : 'UCkiYHK3IZMk5XsYZ626b9Rw',
-        'meetup'        : 'gdgspacecoast',
+        'pwaId'         : '', // Picasa Web Album id, must belong to Google+ id above
+        'domain'        : 'http://gdga.github.io',
+        'twitter'       : '',
+        'facebook'      : 'GDGAllahabad',
+        'youtube'       : '',
+        'meetup'        : '',
         // Change to 'EEEE, MMMM d, y - H:mm' for 24 hour time format.
         'dateFormat'    : 'EEEE, MMMM d, y - h:mm a',
         'cover' : {
