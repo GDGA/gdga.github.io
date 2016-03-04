@@ -1,4 +1,4 @@
-angular.module('gdgXBoomerang')
+angular.module('gdga')
 .controller('OrganizersController', function ($http, Config, NavService) {
     var vm = this;
     vm.loading = false;

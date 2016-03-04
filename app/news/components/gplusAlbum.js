@@ -1,4 +1,4 @@
-angular.module('gdgXBoomerang')
+angular.module('gdga')
 .directive('gplusAlbum', function () {
     return {
         scope: {

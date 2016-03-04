@@ -1,4 +1,4 @@
-angular.module('gdgXBoomerang')
+angular.module('gdga')
 .directive('gplusPostVideo', function ($sce) {
     return {
         link: function (scope, element) {

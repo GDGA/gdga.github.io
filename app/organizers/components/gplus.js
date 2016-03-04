@@ -1,6 +1,6 @@
 'use strict';
 
-angular.module('gdgXBoomerang')
+angular.module('gdga')
 .directive('gplusPerson', function ($http, $filter, Config) {
     return {
         restrict: 'EA',

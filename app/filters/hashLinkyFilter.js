@@ -1,5 +1,5 @@
 // Google+ hashtag linky from http://plnkr.co/edit/IEpLfZ8gO2B9mJcTKuWY?p=preview
-angular.module('gdgXBoomerang')
+angular.module('gdga')
 .filter('hashLinky', function() {
     var ELEMENT_NODE = 1;
     var TEXT_NODE = 3;

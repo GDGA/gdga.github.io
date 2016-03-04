@@ -1,4 +1,4 @@
-angular.module('gdgXBoomerang')
+angular.module('gdga')
 .factory('Config', function () {
     return {
         // TODO Modify these to configure your app

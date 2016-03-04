@@ -1,4 +1,4 @@
-angular.module('gdgXBoomerang')
+angular.module('gdga')
 .config(function ($routeProvider, $locationProvider, $mdThemingProvider, $mdIconProvider) {
 
     $locationProvider.hashPrefix('!');

@@ -1,4 +1,4 @@
-angular.module('gdgXBoomerang')
+angular.module('gdga')
 .controller('AboutController', function ($http, $sce, Config, NavService) {
     var vm = this;
     vm.loading = true;

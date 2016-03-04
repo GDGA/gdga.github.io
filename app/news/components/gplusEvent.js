@@ -1,4 +1,4 @@
-angular.module('gdgXBoomerang')
+angular.module('gdga')
 .directive('gplusEvent', function () {
     return {
         scope: { article: '=' },

@@ -1,7 +1,7 @@
 describe('Controllers', function () {
     var rootScope;
 
-    beforeEach(module('gdgXBoomerang'));
+    beforeEach(module('gdga'));
     beforeEach(inject(function ($rootScope) {
         rootScope = $rootScope;
     }));

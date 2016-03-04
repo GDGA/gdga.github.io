@@ -1,4 +1,4 @@
-angular.module('gdgXBoomerang')
+angular.module('gdga')
 .controller('EventsController', function ($http, $log, $filter, Config, NavService) {
     var vm = this;
     NavService.setNavTab(2);
