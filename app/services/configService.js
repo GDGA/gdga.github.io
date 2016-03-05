@@ -4,10 +4,10 @@ angular.module('gdga')
         // TODO Modify these to configure your app
         'name'          : 'GDG Allahabad',
         'id'            : '102753048484564707718',
-        'googleApi'     : '<insert your API key here>',
+        'googleApi'     : 'AIzaSyDLfKqoprr6LT805Cs-kWu7fj3gZuprdDI',
         'pwaId'         : '', // Picasa Web Album id, must belong to Google+ id above
         'domain'        : 'http://gdga.github.io',
-        'twitter'       : '',
+        'twitter'       : 'GDGAllahabad',
         'facebook'      : 'GDGAllahabad',
         'youtube'       : '',
         'meetup'        : '',
