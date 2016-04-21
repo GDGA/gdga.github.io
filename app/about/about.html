@@ -1,4 +1,4 @@
-<md-whiteframe class="md-whiteframe-1dp" layout="column"
+<!--<md-whiteframe class="md-whiteframe-1dp" layout="column"
                ng-style="{ 'margin': $mdMedia('gt-md') ? '8px' : '0 0 4px 0' }">
     <md-toolbar flex>
         <h2 class="md-toolbar-tools">
@@ -13,10 +13,15 @@
             </md-button>
         </a>
     </div>
-</md-whiteframe>
+</md-whiteframe>-->
 <div class="gdg_loading" ng-show="vm.loading"></div>
 <md-card class="description-card" ng-hide="vm.loading"
          ng-style="{ 'margin': $mdMedia('gt-md') ? '8px' : '0 0 4px 0' }">
+    <md-toolbar flex>
+        <h2 class="md-toolbar-tools">
+            Google Developer's Group, Allahabad
+        </h2>
+    </md-toolbar>
     <img ng-show="vm.cover.url" ng-src="{{ vm.cover.url }}" alt="Google+ Cover Image">
     <div id="cover" ng-show="vm.cover.url">
 

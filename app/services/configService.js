@@ -23,13 +23,8 @@ angular.module('gdga')
         },
         'activities': {
             techTalks: true,
-            codeLabs: true,
             hackathons: true,
-            devFests: true,
-            appClinics: true,
-            panels: true,
             designSprints: true,
-            roundTables: true
         }
         // To update the snippet which is used for sharing, see the TODO in the index.html.
     };

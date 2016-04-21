@@ -1,15 +1,44 @@
 body {
+    /*background: #262b2e;*/
     overflow-y: scroll;
-    color: #424242;
+    color: #D8D1D1;
     font-family: 'Roboto', sans-serif;
     line-height: 24px;
     letter-spacing: -0.01em;
+    /*height:80em;*/
+}
+
+p {
+    color:#262b2e;
+}
+
+.smaller {
+    position:fixed;
+    top:0px;
+}
+
+md-card{
+    background-color:rgba(255,255,255,0.1) !important;
 }
 .gdg_loading {
     background: url('/app/images/gdg_loading.gif') no-repeat 0 0 rgb(255, 255, 255);
     width: 64px;
     height: 64px;
 }
+
+canvas {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: auto; 
+}
+
+
+.md-toolbar-tools {
+    background: black;
+}
+
 md-tabs .md-header {
     border-bottom: 1px solid #D8D8D8;
 }
@@ -44,6 +73,7 @@ md-tabs .md-header {
 }
 .navTabs md-tab-item {
     padding: 0;
+    color:#9E9E9E
 }
 .navTabLink {
     padding: 12px 24px;
